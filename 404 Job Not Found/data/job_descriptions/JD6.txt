@@ -1,0 +1,25 @@
+What You'll Do:
+Minimum 1 year full-time, analytics-relevant work experience with SQL
+Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences
+Bachelor’s degree or higher in a quantitative field (Mathematics, Computer Science, Engineering, etc.)
+Conceptual and practical understanding of statistics and real-world application of statistical concepts particularly in a testing context
+Experience with internet advertising technology (tagging, cookies, trafficking) and digital marketing concepts is preferred
+Who You Are:
+Criteo uses massive commerce datasets to help advertisers and media owners reach their goals. As a Data Analyst on the Client Focused Analytics team, you will work with Criteo's biggest US clients to understand how they measure the value of their marketing efforts. You will analyze shopping behavior on client websites, apps, and physical stores. By combining this with Criteo's marketing data, you will have the opportunity to create compelling data-driven recommendations to help our biggest advertisers maximize the value they see from their Criteo investment.
+
+With 2,600 collaborators worldwide, Criteo is large enough to provide exciting career advancement options, as well as regular opportunities to work with international peers. At the same time, it’s not so big that your individual contributions will go unnoticed - you won’t be another brick in the wall here.
+
+Criteo (and the ad-tech industry at large) is being quickly disrupted, which brings the opportunity to create new and innovative products that will help fund the open internet. If you have ever accessed a free news website that is funded by ads, this is what is at stake, and if keeping that alive motivates you, Criteo might just be the right place for you!
+
+Make smart and careful use of SQL to query massive Hive and Vertica databases (we don't use the term massive lightly: our clusters store close to 171 PB of data, with tens of TB of new data stored daily)
+Frequently interact with commercial teams and clients to share data-driven recommendations and insights regarding their marketing efforts
+Maintain deep knowledge of Criteo products and technologies as they evolve
+Support the testing of new Criteo products and improvements to core Criteo technology by doing marketing performance analysis and troubleshooting
+Manage controlled incrementality A/B tests from design, to execution, to analysis and presentation of results
+Occasionally use Tableau and Python to automate data analyses, build scalable insights and design impactful visualizations
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!​
+
+Who We Are:
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.

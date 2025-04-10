@@ -1,0 +1,42 @@
+About Us
+Alexandria Events by Invited is a premier provider of exceptional experiences, blending Food & Beverage (F&B), wellness, and events to create memorable moments for our clients. Located in the vibrant city of San Diego, we are dedicated to innovation and excellence, driving meaningful insights to enhance our services.
+
+Come be a part of this incredible and inclusive team at Invited! 
+
+Job Summary:
+
+We are seeking a Data Analyst (known internally as a Director of Administration) to join our team, focusing on leveraging data to optimize operations and improve decision-making within our F&B, wellness, and event sectors. 
+
+Day-to-Day:
+
+Data Gathering and Cleaning
+Collect data from various sources, including internal databases, APIs, surveys, and web analytics.
+Clean and prepare datasets, addressing missing values, outliers, and inconsistencies to ensure data integrity.
+Exploratory Data Analysis (EDA)
+Identify patterns, trends, and relationships using statistical methods like descriptive statistics, correlation analysis, and hypothesis testing
+Data Modeling and Visualization
+Develop data models and create visualizations (charts, graphs, dashboards) to convey insights effectively to stakeholders
+Use tools like Tableau or Power BI to build intuitive dashboards for real-time monitoring.
+Reporting and Presentation
+Generate comprehensive reports that summarize findings, key metrics, and actionable recommendations.
+Present insights and recommendations to senior management and cross-functional teams.
+Collaboration
+Work closely with F&B, wellness, and event teams to understand their needs and align analysis with strategic goals.
+Partner with stakeholders to refine data requirements and ensure actionable outcomes.
+Advanced Analytics
+Apply predictive modeling, machine learning and other advanced techniques to forecast trends and identify opportunities
+About You:
+
+• Proficiency in SQL for data extraction and manipulation.
+• Experience with Python or R for data analysis and visualization.
+• Strong knowledge of data visualization tools like Tableau or Power BI.
+• Solid understanding of statistical methods and concepts.
+• A plus if candidate has knowledge of Fitness Software Systems (i.e. Mindbody)
+
+• Critical thinking and problem-solving abilities.
+• Strong communication skills to present complex insights clearly.
+• Attention to detail and commitment to data accuracy.
+• Effective collaboration with diverse teams and stakeholders.
+
+• Bachelor’s or Master’s degree in Technology, Computer Science, Mathematics, or a related field.
+• 3+ years of experience in data analytics, with a focus on F&B, wellness, or event-related industries preferred.

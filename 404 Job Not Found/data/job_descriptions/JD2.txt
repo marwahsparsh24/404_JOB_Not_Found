@@ -1,0 +1,31 @@
+Knowing the destination isn't enough: you need to know how to get there. Build up your own networks, exploit new ideas, consistently take the initiative. Inspire other people with your enthusiasm. That's the only way to give ideas the power that allows them to become true innovations.
+
+BMW Shared Services is posting this position on behalf of BMW Financial Services NA, LLC.
+
+BMW Financial Services NA, LLC was established in 1993, supporting the sales and marketing of BMW products. Subsequently, we have expanded beyond the leasing, retail and commercial financing of a traditional captive-finance company offering a broad variety of products tailored for the BMW, MINI and Rolls-Royce customer. Be a part of our exciting growth by expressing an interest in our AI Engineer position located in Columbus, Ohio.
+
+ 
+
+WHAT AWAITS YOU.
+
+Driving the Development of Cutting-Edge AI Solutions: You will be responsible for leading the development, implementation, and optimization of innovative AI solutions to solve complex problems across various industries.
+End-to-End AI Lifecycle Management: From data preprocessing to model training, evaluation, and deployment, you will drive the entire lifecycle of intelligent systems that revolutionize industries and drive business growth.
+AI Strategy and Innovation: You will understand the company's goals and challenges, plan AI strategies, identify innovation opportunities, and apply creative solutions to solve problems.
+Algorithm and Model Development: You will develop and test AI algorithms and models, collect, analyze, and interpret data to identify patterns and insights, and apply new techniques such as deep learning, evolutionary AI, and natural language processing.
+Cross-Functional Collaboration: You will collaborate with cross-functional teams to integrate AI systems into products and services, ensuring seamless integration and optimal performance.
+Process Improvement and Operational Excellence: You will challenge existing standard operating procedures and protocols, foster improvements, define and ensure operational excellence goals through strong operations knowledge, and resolve escalated support topics.
+Agile Project Management and Customer-Centric Design: You will plan work-effort as part of Agile projects, support or even lead ceremonies, and advocate for customer-centric systems that are well-designed with a view toward excellent customer experience and clear business requirements.
+ 
+
+WHAT YOU SHOULD BRING.
+
+Bachelor’s or master’s degree in computer science, artificial intelligence, mathematics, statistics, or a related field.
+3+ years expertise in machine learning algorithms such as linear regression, decision trees, neural networks and clustering algorithms.
+Proficient in Python, Java, C++, and R.
+Experience with machine learning frameworks such as TensorFlow, Keras, and PyTorch.
+Must have broad experience with AI platforms and know how to implement them.
+Ability to identify problems, develop hypotheses and test solutions to optimize performance.
+Strong understanding of AI algorithms including generative models, deep learning, natural language processing, computer vision and robotics.
+Deep understanding of the underlying mathematics.
+Good understanding of statistics and data analysis tools such as Excel, Tableau, and other data visualization tools.
+Must be able to communicate complex technical information to both technical and non-technical stakeholders in a clear and concise manner.

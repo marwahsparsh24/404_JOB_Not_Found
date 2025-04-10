@@ -1,0 +1,35 @@
+At Sun Life, we look for optimistic people who want to make life brighter for our Clients. We understand the value of diverse cultures, perspectives, and identities, and want you to bring your full and authentic self to work. Every day, you’ll be empowered and challenged by working with dynamic colleagues to find new and innovative ways to make Sun Life the best benefits company in America.  
+
+The opportunity: The Data Scientist will provide advanced analytics support within the Business Analytics function that applies the power of data with machine learning to improve business outcomes across the Health and Risk Solutions business. This team is expected to work closely with the other functional teams, in particular the Distribution, Client Management and Sales Enablement teams. This position reports to the Associate Director, Sales Growth within the Health and Risk Solutions business. Responsibilities include helping to develop and monitor predictive model and AI solutions to support our pricing, underwriting and clinical review processes, as assigned.  Additional responsibilities may include applying machine learning techniques to streamline and automate aspects of these processes, and promoting a culture of data-driven, risk-based decisions. 
+
+How you will contribute: 
+
+Apply basic to intermediate data science techniques to solve business problems across a broad range of data analysis functions including predictive analysis, data modeling, visualization, and data profiling. 
+Utilize multiple sources of data, including structured and unstructured data, along with broad range of machine learning techniques to improve insights of the models. 
+Support the development of new modeling techniques and procedures. 
+Develop and maintain high-quality, robust predictive models and AI solutions using advanced analytic techniques 
+Extract and analyze internal and external data sources to help answer key business problems related to risk assessment. 
+What you will bring with you: 
+
+Ability to work with a diverse range of people 
+Experience with a broad range of data science programming languages, applications and data environments (e.g., Python, R, SQL) 
+BS/MS in a statistical, mathematical, or technical field (e.g., computer science, actuarial science) 
+2+ years of experience in developing and implementing data science techniques 
+Healthcare or health insurance experience preferred. 
+Strong knowledge of data science including conditioning, modeling, and visualization 
+Strong knowledge of the fundamental data science and AI underpinnings of data science 
+Commitment to data compliance, model governance and security protocols 
+Strong business acumen to understand why and how the work we do will impact our business stakeholders 
+Strong communication skills, with an ability to explain technical concepts to a non-technical audience 
+Demonstrated academic or industry experience in field of Information Retrieval, NLP and/or generative AI. 
+Do you see yourself in this role even if you haven’t checked all the boxes above? We welcome all talented candidates and are committed to a culture that represents diversity in all forms. If you think you might thrive in this setting, we would love to hear from you. 
+
+Not ready to apply yet but want to stay in touch? Join our talent community to stay connected until the time is right for you! 
+
+Life is brighter when you work at Sun Life 
+
+Excellent benefits and wellness programs to support the three pillars of your well-being – mental, physical and financial – including generous vacation and sick time, market-leading paid family, parental and adoption leave, a partially-paid sabbatical program, medical plans, company paid life and AD&D insurance as well as disability programs and more 
+Retirement and Stock Purchase programs to help build and enhance your future financial security including a 401(k) plan with an employer-paid match as well as an employer-funded retirement account  
+A flexible work environment with a friendly, caring, collaborative and inclusive culture  
+Great Place to Work® Certified in Canada and the U.S.  
+Named as a “Top 10” employer by the Boston Globe's “Top Places to Work” two years running 

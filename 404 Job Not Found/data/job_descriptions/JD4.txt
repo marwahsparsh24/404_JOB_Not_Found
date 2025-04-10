@@ -1,0 +1,21 @@
+In this position you should have the following; excellent interpersonal skills with the ability to communicate at all levels. Strong problem solving and creative skills and the ability to exercise sound judgment. Most important, demonstrate a high level of integrity and dependability with a strong sense of urgency and results-orientation.
+
+This role constructs complex solutions that integrate data wrangling, visualization, and advanced modeling techniques into a seamless workflow using software development best practices in Python, R, or other scripting languages. The role includes working within modern data platforms, such as Databricks, to develop and optimize scalable data pipelines and machine learning models, automating business workflows and answering business questions to improve CLA by integrating ML or AI algorithms into our decision-making processes, and working with and building AI/ML models, including utilizing and/or tuning Large Language Models (LLMS).
+
+How you’ll create opportunities in this Data Scientist role: 
+
+• Expand Knowledge/Exposure: Develop service specific knowledge through greater exposure to peers, internal experts, clients, regular self-study, and formal training opportunities. Gain exposure to a variety of program/project situations to develop business and organizational/planning skills. Retain knowledge gained and performance feedback provided to transfer into future work. Approach all problems and projects with a high level of professionalism, objectivity and an open mind to new ideas and solutions.
+
+• Data Analysis & AI Solutions: Collaborate with internal teams to collect, analyze, and automate data processing. Leverage AI models, including LLMs, for developing intelligent solutions that enhance data-driven decision-making processes for both internal projects and external clients. Leverage machine learning methodologies, including non-linear, linear, and forecasting methods to help build solutions aimed at better understanding the business of CLA, making CLA more efficient, and planning our future.
+
+• Data Development: Working under the guidance of a variety of Data Science team members, gain exposure to developing custom data models and algorithms to apply to data sets. Gain experience with predictive and inferential analytics, machine learning, and artificial intelligence techniques. Use existing processes and tools to monitor and analyze solution performance and accuracy and communicate findings to team members and end users.
+
+• AI-Driven Workflows: Contribute to automating business workflows by incorporating LLMs and other AI models to streamline processes and improve efficiency. Integrate AI-driven solutions within existing systems to provide advanced predictive capabilities and actionable insights.
+
+• Collaboration: With specific direction, learn to work individually as well as in collaboration with others. Interaction with others will primarily be virtual with leadership and colleagues.
+
+What you will need:
+
+1 year of experience preferred
+Experience with APIs, web scraping, SQL/no-SQL databases, and cloud-based data solutions preferred.
+Bachelor's degree or a combination of relevant experience and training may be considered in lieu of a degree.

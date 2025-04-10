@@ -1,0 +1,37 @@
+Understands and articulates the business case of business questions and the estimated value being delivered. Designs dashboards and analyses to be performed, and appropriate visualization and analytics tools to use. Identifies trends and patterns to address identified business questions and provide insights through reporting and data visualization techniques. Works with other data and analytics professionals to optimize, refine, automate and scale analysis into repeatable analytics solutions and decision support tools.
+
+Builds various reporting dashboards using the most appropriate data extraction, data cleaning and data visualisation techniques.
+Provides value through insights, reporting and data visualization techniques. Selects, configures and implements analytics solutions for consistency and repeatability.
+Researches and applies continuous improvement in data visualization by identifying trends and patterns to transform raw data into actionable business insights.
+Works with different teams, management and stakeholders to enhance the usability and aesthetic appeal of data analytics solutions deployed in the organization.
+Translates business needs to technical specifications and evaluates existing data visualization systems in order to improve them.
+Develops data visualizations of "large" amounts of data that facilitate the intuitive presentation of data to decision makers.
+Documents data flow, systems and processes to improve the design, implementation and management of business/group processes.
+Develops tools and delivers training programs for use of reporting tools and self-serve analytics by non-analytical end users; may include delivery of training to audiences.
+Focus is primarily on business/group within BMO; may have broader, enterprise-wide focus.
+Exercises judgment to identify, diagnose, and solve problems within given rules.
+Works independently on a range of complex tasks, which may include unique situations.
+Broader work or accountabilities may be assigned as needed.
+Qualifications:
+
+Foundational level of proficiency:
+
+Technical design optimization.
+Decision Making.
+Systems Thinking.
+Data visualization.
+Data storytelling.
+Data mining.
+Illustration.
+Creative thinking.
+Problem Solving.
+Intermediate level of proficiency:
+
+Insights design.
+Insights development and reporting.
+Verbal & written communication skills.
+Collaboration & team skills.
+Analytical and problem solving skills.
+Data driven decision making.
+Typically between 2 - 4 years of relevant experience and post-secondary degree in related field of study or an equivalent combination of education and experience.
+Technical proficiency gained through education and/or business experience.

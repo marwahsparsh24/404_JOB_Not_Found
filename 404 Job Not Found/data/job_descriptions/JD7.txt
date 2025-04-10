@@ -1,0 +1,29 @@
+Dispatch simplifies last-mile deliveries for businesses by providing both a reliable network of independent contractor drivers and scalable software for your own fleet. With our delivery technology, businesses can focus on what matters most while empowering them to Deliver More for their customers. Dispatch’s real-time tracking and transparency put businesses, suppliers, and technicians in control of local deliveries. Voted one of America’s Best Startup Employers by Forbes, Dispatch thrives on our commitment to strong company culture and our Five Core Values:
+
+Care – We treat our people, customers, and drivers with empathy and respect. 
+Commitment – Every role matters; we’re dedicated to our team, mission, and plan. 
+Transparency – We build trust by keeping our promises and owning our mistakes. 
+Speed to Value – We make timely decisions with a focus on long-term impact. 
+Driven to Deliver – We take radical ownership of responsibilities, valuing execution as critical. 
+
+WHY YOU WOULD BE A FIT?
+
+We are seeking a data-driven Product Data Analyst who excels at delivering insights and technical solutions to optimize product performance and inform strategic decisions. If you have expertise in SQL, data modeling, and BI tools, and enjoy collaborating with cross-functional teams in a fast-paced environment, this role offers the perfect opportunity to make a measurable impact at Dispatch.
+
+YOUR ASSIGNMENT (should you choose us and we choose you!)
+
+Data Modeling and ETL Management: Design, build, and optimize scalable data models and ETL pipelines to ensure seamless data integration and support analytics initiatives. 
+Data Analysis and Insights: Perform in-depth data analyses using SQL and BI tools to uncover actionable insights and forecast trends aligned with business objectives. 
+Dashboard Development and Reporting: Create, maintain, and enhance dashboards using tools like Looker, Tableau, and Power BI to track KPIs and visualize data for stakeholders. 
+Stakeholder Collaboration and Communication: Collaborate with cross-functional teams to translate business requirements into technical deliverables and effectively communicate findings. 
+Data Governance and Quality: Ensure data accuracy, quality, and consistency by establishing rigorous validation and governance processes. 
+
+What You Bring To The Team & Dispatch
+
+Experience: Minimum of 5 years in data analytics or a related field, with hands-on experience in SQL development, BI tools, and data modeling. 
+Technical Proficiency: Advanced SQL skills and experience with BI tools (e.g., Looker, Tableau, Power BI) and ETL pipeline development. 
+Analytical Skills: Proven ability to analyze complex data, identify trends, and deliver actionable insights. 
+Communication: Excellent verbal and written communication skills to present technical findings to non-technical audiences. 
+Adaptability: Thrives in fast-paced environments, managing multiple projects simultaneously. 
+Collaboration: Strong experience working in cross-functional teams. 
+Problem-Solving: Creative thinker with a knack for developing scalable solutions to data challenges.

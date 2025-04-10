@@ -1,0 +1,11 @@
+Copart is seeking a Data Science Analyst to help provide vision and commitment to key Copart data science initiatives through the analysis and implementation of data science solutions. The data science analyst will also analyze and manipulate large-scale data sets from a multitude of sources, work to operationalize and integrate machine learning solutions into Copart's current products and visualize and report on findings and results to provide insight to the organization Job Duties: Design, implement, and analyze data science projects to improve the efficiency of Copart Operations Apply critical thinking to ensure data integrity and quality control is applied to each dataset, model, and other analysis prior to presenting with internal customers Apply insights from data analyses to guide the development of business initiatives. Apply various machine learning techniques to build predictive models. Continually engage in professional development to grow both technical skills, business, and industry knowledge.
+
+Required Skills and Experience:
+
+2+ years of experience (relevant academic internships and projects can be considered in lieu of professional experience) with machine learning, statistical modeling, and data mining techniques. Bachelors or masters degree in a highly quantitative field (computer science, mathematics, machine learning, statistics) or equivalent experience
+
+Technical Skills- R, Python, SQL, Google Cloud (GCP), AWS Proficiency in data sourcing/manipulation in SQL
+
+Experience applying various machine learning techniques, specifically neural networks and gradient boosted machines, and understanding the key parameters that affect their performance.
+
+Strong data visualization skills using open-source tools (seaborns, matplotlib, plotly, ggplot2, shiny) Experience with both supervised and unsupervised modeling techniques.
