@@ -1,0 +1,19 @@
+Federato is on a mission to defend the right to efficient, equitable insurance for all. We enable insurers to provide affordable coverage to people and organizations facing the issues of today - the climate crisis, cyber-attacks, social inflation, etc. Our vision is understood and well funded by those behind Salesforce, Veeva, Zoom, Box, etc.
+
+Federato’s AI/ML-driven platform leverages deep reinforcement learning to help insurance companies optimize the portfolio of risks they insure, allowing them to continue to provide fair and equitable pricing in difficult-to-price areas. Our category-defining ‘RiskOps’ solution drives better underwriting decisions by operationalizing underutilized data investments and surfacing real-time risk and portfolio insights. We focus on putting insurance underwriters back in the driver’s seat, helping them meet their goals while providing an important service to society.
+
+What You'll Be Doing
+
+Quickly deploy and test the current LLM-powered pipeline locally for specific customer use cases, making necessary adjustments to ensure alignment with customer requirements, and documenting findings clearly.
+Take ownership of deploying product improvements based on customer-specific requests, pushing code and configuration changes to GitHub, and collaborating closely with product and engineering teams for smooth integration.
+Build and maintain a repository of prompts for various scenarios that would be leveraged for any prospective customer proof of concept, iterating on these to optimize performance and ensure they are production-ready when needed.
+Lead technical PoC projects with prospective customers, showcasing the capabilities of the ML models, addressing their specific needs, and gathering feedback to inform future improvements.
+Collaborate with the team to ensure continuous monitoring of deployed models, focusing on improving accuracy and performance within a structured ML framework while learning best practices for pipeline maintenance.
+
+Who We Hope You Are
+
+Proven experience as a Machine Learning Engineer or similar role (at least 6 months of relevant internship experience in a similar role), with a strong focus on building and benchmarking models.
+Practical experience through coursework, internships, or personal projects in applying machine learning techniques, ideally with some exposure to NLP models, prompt engineering, and working with LLMs (e.g., via frameworks like Hugging Face, OpenAI)
+Familiarity with version control (Git), CI/CD pipelines, and deploying ML models or services locally or in cloud environments. Knowledge of GitHub for collaboration and maintaining codebases is essential
+Proficiency in Python for building and testing ML models, with experience using popular ML and data libraries like TensorFlow, PyTorch, Scikit-learn, Pandas, and NumPy
+Enthusiasm for customer-facing work, including the ability to understand specific use cases and adjust ML models accordingly. They should be proactive in learning deployment best practices and taking responsibility for PoCs and prompt engineering tasks

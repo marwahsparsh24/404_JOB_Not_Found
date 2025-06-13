@@ -1,0 +1,36 @@
+You’ll be joining an elite team of subject matter experts supporting Military Sealift Command’s Logistics Data Management program. You’ll be able to challenge yourself with data analytics to provide innovative solutions and continuous process improvement, while learning MSC unique systems, databases, and processes.
+
+More About the Role
+
+Primary job duties include writing SQL queries in SyBase and/or Tableau to interface with various databases, as well as writing and testing code.
+Development often consists of designing tables, storing procedures, views, and functions.
+Data extraction from various database sources and data manipulation.
+Work with project managers, analyst teams and clients, building database queries, both for one-time and recurring use. 
+Document, code, create table mappings, provide progress reports, and perform code review, and peer feedback.
+Perform data analyses by comparing information located in separate, but related, databases or tables.
+Utilize SQL, MS Excel, MS Access, Tableau, Python, and other applications to complete analysis of logistics data and to create client driven metrics. Generate reports of resulting data.
+Develop & Maintain documentation relating to data management processes.
+Must be a self starter, highly motivated individual who is willing to collaborate with individuals and groups frequently as a Subject Matter Expert (SME) to create systemic solutions.
+Ability to map out and manipulate data that may not be normalized.
+Perform analytical work to identify data management or reporting problem areas; identify gaps between information needs and data availability.
+Identify root causes to problems and develop solutions to address them and prevent them from reoccurring.
+Ability to multi-task in a fast-paced environment.
+You’ll Bring These Qualifications
+
+Strong SQL language, Tableau, and Microsoft Excel skills
+Desire to learn and expand knowledge base in data analysis and logistics.
+Ability to extract and manipulate large sets of data.
+Ability to gather and accurately translate requirements from stakeholders
+3+ years of SQL language experience required
+Strong analysis and reporting skills
+Ability to provide solutions to complex problems
+Attention to detail; maintains a high level of accuracy
+These Qualifications Would Be Nice to Have
+
+Data Modeling experience
+Microsoft - Power BI experience
+Microsoft - SQL Server Management Studio (SSMS) experience
+Visual Basic scripting experience
+SharePoint experience
+3+ years experience of working with large data sets
+Experience with maintaining knowledge library
